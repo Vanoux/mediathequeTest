@@ -1,6 +1,10 @@
 # mediathequeTest
-Wireframe : https://marvelapp.com/project/3147664/screen/44762723
+Wireframe : https://marvelapp.com/6i8jf3b/screen/44762723
+
 UML : https://www.lucidchart.com/documents/edit/14857077-1bac-4b59-aa68-f2bf8f98e2a8/0
+
+Lien en ligne : https://vanoux.github.io/mediathequeTest/
+
 Ne pas oublier NPM install pour les dépendances 
 
 
