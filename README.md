@@ -1,6 +1,8 @@
 # mediathequeTest
 Wireframe : https://marvelapp.com/project/3147664/screen/44762723
 
+Ne pas oublier NPM install pour les dépendances 
+
 
 Enoncé
 

@@ -1,0 +1,22 @@
+{
+  "name": "mediathequetest",
+  "version": "1.0.0",
+  "description": "Wireframe : https://marvelapp.com/project/3147664/screen/44762723",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanoux/mediathequeTest.git"
+  },
+  "author": "Vanessa Roux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vanoux/mediathequeTest/issues"
+  },
+  "homepage": "https://github.com/Vanoux/mediathequeTest#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
