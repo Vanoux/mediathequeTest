@@ -1,7 +1,7 @@
 # mediathequeTest
 Wireframe : https://marvelapp.com/6i8jf3b/screen/44762723
 
-UML : https://www.lucidchart.com/documents/edit/14857077-1bac-4b59-aa68-f2bf8f98e2a8/0
+UML : https://www.lucidchart.com/invitations/accept/5daad758-a724-4c21-a77a-476d452dc33f
 
 Lien en ligne : https://vanoux.github.io/mediathequeTest/
 
